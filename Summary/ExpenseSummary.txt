@@ -1,0 +1,8 @@
+
+2022-05-03 22:09:07-----ExpenseMoney-----$10-----Bank Account------snacks-----Updated: Bank=90 TotalAdd=10 MonthlyAdd=10
+2022-05-03 22:09:30-----ExpenseMoney-----$20-----Cash------Dinner-----Updated: Cash=80 TotalAdd=30 MonthlyAdd=30
+2022-05-04 12:28:04-----ExpenseMoney-----$2-----Cash------bhik return-----Updated: Cash=80 TotalAdd=32 MonthlyAdd=32
+2022-05-04 12:33:20-----ExpenseMoney-----$40-----Bank Account-----------Updated: Bank=100 TotalAdd=72 MonthlyAdd=72
+2022-05-04 12:33:40-----ExpenseMoney-----$10-----Cash-----------Updated: Cash=80 TotalAdd=82 MonthlyAdd=82
+2022-05-04 12:34:27-----ExpenseMoney-----$40-----Bank Account-----------Updated: Bank=60 TotalAdd=122 MonthlyAdd=122
+2022-05-20 12:15:48-----ExpenseMoney-----$10-----Cash------XYZ-----Updated: Cash=80 TotalAdd=132 MonthlyAdd=132

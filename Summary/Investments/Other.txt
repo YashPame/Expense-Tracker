@@ -1,0 +1,7 @@
+
+2022-05-20 12:25:12-----InvestmentMoney-----$100-----Other------test-----Updated: Bank=-90 Investment=150 MonthlyInvestment=150
+2022-05-20 12:25:28-----InvestmentMoney-----$100-----Other------test-----Updated: Bank=-190 Investment=250 MonthlyInvestment=250
+2022-05-20 12:29:08-----InvestmentMoney-----$20-----Savings(Cash)------u-----Updated: Bank=60 saving=20 monthlysaving=20
+2022-05-20 12:29:24-----InvestmentMoney-----$30-----Savings(Bank)------y-----Updated: Bank=780 saving=50 monthlysaving=50
+2022-05-20 12:29:44-----InvestmentMoney-----$10-----Savings(Cash)------s-----Updated: Bank=770 saving=60 monthlysaving=60
+2022-05-20 12:30:25-----InvestmentMoney-----$10-----Savings(Bank)------t-----Updated: Bank=800 saving=70 monthlysaving=70

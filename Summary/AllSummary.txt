@@ -1,0 +1,24 @@
+
+2022-05-03 22:08:36-----AddMoney-----$100-----Bank Account------Pranav-----Updated: Bank=100 TotalAdd=100 MonthlyAdd=100
+2022-05-03 22:08:50-----AddMoney-----$100-----Cash------Rushi-----Updated: Cash=100 TotalAdd=200 MonthlyAdd=200
+2022-05-03 22:09:07-----ExpenseMoney-----$10-----Bank Account------snacks-----Updated: Bank=90 TotalAdd=10 MonthlyAdd=10
+2022-05-03 22:09:30-----ExpenseMoney-----$20-----Cash------Dinner-----Updated: Cash=80 TotalAdd=30 MonthlyAdd=30
+2022-05-04 12:27:46-----AddMoney-----$2-----Cash------bhik-----Updated: Cash=82 TotalAdd=202 MonthlyAdd=202
+2022-05-04 12:28:04-----ExpenseMoney-----$2-----Cash------bhik return-----Updated: Cash=80 TotalAdd=32 MonthlyAdd=32
+2022-05-04 12:32:41-----AddMoney-----$50-----Bank Account------papa-----Updated: Bank=140 TotalAdd=252 MonthlyAdd=252
+2022-05-04 12:33:02-----AddMoney-----$10-----Cash-----------Updated: Cash=90 TotalAdd=262 MonthlyAdd=262
+2022-05-04 12:33:20-----ExpenseMoney-----$40-----Bank Account-----------Updated: Bank=100 TotalAdd=72 MonthlyAdd=72
+2022-05-04 12:33:40-----ExpenseMoney-----$10-----Cash-----------Updated: Cash=80 TotalAdd=82 MonthlyAdd=82
+2022-05-04 12:34:27-----ExpenseMoney-----$40-----Bank Account-----------Updated: Bank=60 TotalAdd=122 MonthlyAdd=122
+2022-05-04 15:47:43-----InvestmentMoney-----$10-----Gold------0.0001gm-----Updated: Bank=20 Investment=40 MonthlyInvestment=40
+2022-05-04 15:48:36-----InvestmentMoney-----$10-----Gold-----------Updated: Bank=10 Investment=50 MonthlyInvestment=50
+2022-05-20 12:15:36-----AddMoney-----$10-----Cash------XYZ-----Updated: Cash=90 TotalAdd=272 MonthlyAdd=272
+2022-05-20 12:15:48-----ExpenseMoney-----$10-----Cash------XYZ-----Updated: Cash=80 TotalAdd=132 MonthlyAdd=132
+2022-05-20 12:25:12-----InvestmentMoney-----$100-----Other------test-----Updated: Bank=-90 Investment=150 MonthlyInvestment=150
+2022-05-20 12:25:28-----InvestmentMoney-----$100-----Other------test-----Updated: Bank=-190 Investment=250 MonthlyInvestment=250
+2022-05-20 12:25:44-----AddMoney-----$1000-----Bank Account------c-----Updated: Bank=810 TotalAdd=1272 MonthlyAdd=1272
+2022-05-20 12:29:08-----InvestmentMoney-----$20-----Savings(Cash)------u-----Updated: Bank=60 saving=20 monthlysaving=20
+2022-05-20 12:29:24-----InvestmentMoney-----$30-----Savings(Bank)------y-----Updated: Bank=780 saving=50 monthlysaving=50
+2022-05-20 12:29:44-----InvestmentMoney-----$10-----Savings(Cash)------s-----Updated: Bank=770 saving=60 monthlysaving=60
+2022-05-20 12:30:25-----InvestmentMoney-----$10-----Savings(Bank)------t-----Updated: Bank=800 saving=70 monthlysaving=70
+2022-05-20 14:57:50-----AddMoney-----$1000-----Bank Account------internship-----Updated: Bank=1800 TotalAdd=2272 MonthlyAdd=2272

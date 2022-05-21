@@ -1,0 +1,3 @@
+
+2022-05-04 15:47:43-----InvestmentMoney-----$10-----Gold------0.0001gm-----Updated: Bank=20 Investment=40 MonthlyInvestment=40
+2022-05-04 15:48:36-----InvestmentMoney-----$10-----Gold-----------Updated: Bank=10 Investment=50 MonthlyInvestment=50

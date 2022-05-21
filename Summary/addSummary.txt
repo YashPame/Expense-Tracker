@@ -1,0 +1,9 @@
+
+2022-05-03 22:08:36-----AddMoney-----$100-----Bank Account------Pranav-----Updated: Bank=100 TotalAdd=100 MonthlyAdd=100
+2022-05-03 22:08:50-----AddMoney-----$100-----Cash------Rushi-----Updated: Cash=100 TotalAdd=200 MonthlyAdd=200
+2022-05-04 12:27:46-----AddMoney-----$2-----Cash------bhik-----Updated: Cash=82 TotalAdd=202 MonthlyAdd=202
+2022-05-04 12:32:41-----AddMoney-----$50-----Bank Account------papa-----Updated: Bank=140 TotalAdd=252 MonthlyAdd=252
+2022-05-04 12:33:02-----AddMoney-----$10-----Cash-----------Updated: Cash=90 TotalAdd=262 MonthlyAdd=262
+2022-05-20 12:15:36-----AddMoney-----$10-----Cash------XYZ-----Updated: Cash=90 TotalAdd=272 MonthlyAdd=272
+2022-05-20 12:25:44-----AddMoney-----$1000-----Bank Account------c-----Updated: Bank=810 TotalAdd=1272 MonthlyAdd=1272
+2022-05-20 14:57:50-----AddMoney-----$1000-----Bank Account------internship-----Updated: Bank=1800 TotalAdd=2272 MonthlyAdd=2272
